@@ -48,7 +48,7 @@ def main():
 	#print("Classification Report:"+ str(report))
     print(report)
     
-    print("No Cardio Disease" if(y_pred[0] == 0) else "Having Cardio Disease")
+    print("Having No Cardio Disease" if(y_pred[0] == 0) else "Having Cardio Disease")
    
     
     
