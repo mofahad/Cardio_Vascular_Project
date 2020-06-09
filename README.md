@@ -4,7 +4,7 @@ Cardiovascular disease is the leading cause of death throughout the United State
 
 
 #  DataSet Description
-The cardiovascular disease dataset is an open-source dataset found on Kaggle [dataset](https://www.kaggle.com/sulianova/cardiovascular-disease-dataset). The data consists of 70,000 patient records (34,979 presenting with cardiovascular disease and 35,021 not presenting with cardiovascular disease) and contains 11 features (4 demographic, 4 examination, and 3 social history):
+The cardiovascular disease dataset is an open-source [dataset](https://www.kaggle.com/sulianova/cardiovascular-disease-dataset) found on Kaggle. The data consists of 70,000 patient records (34,979 presenting with cardiovascular disease and 35,021 not presenting with cardiovascular disease) and contains 11 features (4 demographic, 4 examination, and 3 social history):
 
 - Age (demographic)
 - Height (demographic)
